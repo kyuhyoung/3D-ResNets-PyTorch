@@ -5,6 +5,7 @@
 Our paper "Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?" is accepted to CVPR2018!  
 We update the paper information.
 
+
 ## Update (2018/01/16)
 
 We uploaded some of fine-tuned models on UCF-101 and HMDB-51.
